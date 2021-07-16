@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a96july_monitor_changes_in_permission_css_location_external_files_you2",
+  "variantName": "debug",
+  "elements": []
+}
